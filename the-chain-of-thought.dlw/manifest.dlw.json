@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE CHAIN OF THOUGHT",
+  "universe": "COT · THE CHAIN OF THOUGHT (niphelektron · the inference pipeline)",
+  "emergence": "",
+  "moniker": "⟦THE CHAIN OF THOUGHT:COT:a68184⟧",
+  "carbon": "the-chain-of-thought.carbon.tiff (TIFF)",
+  "silicon": "the-chain-of-thought.silicon.png (PNG)",
+  "seal_sha256": "1fae3fb043a1fb7aac8393fc9c2285b4608256959c567d81c2246f16198d92f3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

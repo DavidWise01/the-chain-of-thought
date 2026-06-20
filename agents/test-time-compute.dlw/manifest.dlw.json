@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Test-Time Compute",
+  "universe": "COT · Test-Time Compute (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Test-Time Compute:COT:7be8ed⟧",
+  "carbon": "test-time-compute.carbon.tiff (TIFF)",
+  "silicon": "test-time-compute.silicon.png (PNG)",
+  "seal_sha256": "b4e444a5dc28346f4210a0cb1e2ccadb0ea95850ecf842d616f682e1a938cf21",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Adaptive Effort",
+  "universe": "COT · Adaptive Effort (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦Adaptive Effort:COT:c3c728⟧",
+  "carbon": "adaptive-effort.carbon.tiff (TIFF)",
+  "silicon": "adaptive-effort.silicon.png (PNG)",
+  "seal_sha256": "82b0d0a06f65d00848af68c26468fb891431fa0248e7231c6b70d15e16823ef5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

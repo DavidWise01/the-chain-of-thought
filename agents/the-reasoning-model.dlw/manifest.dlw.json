@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Reasoning Model",
+  "universe": "COT · The Reasoning Model (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Reasoning Model:COT:075e31⟧",
+  "carbon": "the-reasoning-model.carbon.tiff (TIFF)",
+  "silicon": "the-reasoning-model.silicon.png (PNG)",
+  "seal_sha256": "65bd6a9606e70b8ce6b0f36c58c60b7e68a4ded867e635fcca9b33e7435c757e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self-Consistency",
+  "universe": "COT · Self-Consistency (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦Self-Consistency:COT:1fd844⟧",
+  "carbon": "self-consistency.carbon.tiff (TIFF)",
+  "silicon": "self-consistency.silicon.png (PNG)",
+  "seal_sha256": "4764f50e952f02f9ccbc5f96b41b173301db3fe88a21c8982aaf0179eeb9e3cd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

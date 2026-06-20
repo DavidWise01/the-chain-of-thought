@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of THE CHAIN OF THOUGHT
+node COT · COT · ⟦THE CHAIN OF THOUGHT:COT:a68184⟧
+
+WHO   — THE CHAIN OF THOUGHT — the capstone niphelektron sphere — reasoning
+WHAT  — The pipeline predicts one token. But ask the model to predict many tokens of working-out before its final answer — a chain of thought — and let it spend more compute at inference time, and its performance on hard problems jumps. This is the 2024–2025 frontier: reasoning not as a new faculty bolted on, but as the next-token engine, run at length and pointed at itself. The same prediction, iterated, becomes something that looks like thinking.
+WHERE — the inference layer — the frontier of the pipeline  Framework inputs: the token; the scratchpad; the verifier; the budget  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The pipeline predicts one token. But ask the model to predict many tokens of working-out before its final answer — a chain of thought — and let it spend more compute at inference time, and its performance on hard problems jumps. This is the 2024–2025 frontier: reasoning not as a new faculty bolted on, but as the next-token engine, run at length and pointed at itself. The same prediction, iterated, becomes something that looks like thinking.
+HOW   — Rendered from the public record of how reasoning LLMs work.
+
+awareness — what the node knows of itself:
+  The pipeline predicts one token. But ask the model to predict many tokens of working-out before its final answer — a chain of thought — and let it spend more compute at inference time, and its performance on hard problems jumps. This is the 2024–2025 frontier: reasoning not as a new faculty bolted on, but as the next-token engine, run at length and pointed at itself. The same prediction, iterated, becomes something that looks like thinking.
+
+spoken token : nen-leis-myx   ·   hex : a68184
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

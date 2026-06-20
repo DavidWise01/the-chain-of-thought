@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Verifier",
+  "universe": "COT · The Verifier (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Verifier:COT:05a84f⟧",
+  "carbon": "the-verifier.carbon.tiff (TIFF)",
+  "silicon": "the-verifier.silicon.png (PNG)",
+  "seal_sha256": "2e09d706bd51200f2460cafa40a41020bce482418116434b69ed1ed1999bff1e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

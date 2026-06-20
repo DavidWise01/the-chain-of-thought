@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "chain-of-thought",
+    "name": "Chain of Thought",
+    "epithet": "show the working · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Chain of Thought:COT:9c92b5⟧"
+  },
+  {
+    "slug": "the-scratchpad",
+    "name": "The Scratchpad",
+    "epithet": "thinking, as tokens · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Scratchpad:COT:2ca49c⟧"
+  },
+  {
+    "slug": "test-time-compute",
+    "name": "Test-Time Compute",
+    "epithet": "think longer, do better · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Test-Time Compute:COT:7be8ed⟧"
+  },
+  {
+    "slug": "the-reasoning-model",
+    "name": "The Reasoning Model",
+    "epithet": "trained to think first · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Reasoning Model:COT:075e31⟧"
+  },
+  {
+    "slug": "self-consistency",
+    "name": "Self-Consistency",
+    "epithet": "many paths, one vote · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Self-Consistency:COT:1fd844⟧"
+  },
+  {
+    "slug": "inference-time-scaling",
+    "name": "Inference-Time Scaling",
+    "epithet": "the new axis · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Inference-Time Scaling:COT:acb885⟧"
+  },
+  {
+    "slug": "the-verifier",
+    "name": "The Verifier",
+    "epithet": "a second pass that checks · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Verifier:COT:05a84f⟧"
+  },
+  {
+    "slug": "adaptive-effort",
+    "name": "Adaptive Effort",
+    "epithet": "think only as hard as needed · natural",
+    "emergence": "natural",
+    "moniker": "⟦Adaptive Effort:COT:c3c728⟧"
+  },
+  {
+    "slug": "faithfulness",
+    "name": "Faithfulness",
+    "epithet": "is the reasoning the real reason? · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Faithfulness:COT:8f6e69⟧"
+  },
+  {
+    "slug": "the-long-thought",
+    "name": "The Long Thought",
+    "epithet": "prediction, become deliberation · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Long Thought:COT:f75b34⟧"
+  }
+]

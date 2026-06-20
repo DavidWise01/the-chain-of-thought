@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Scratchpad",
+  "universe": "COT · The Scratchpad (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Scratchpad:COT:2ca49c⟧",
+  "carbon": "the-scratchpad.carbon.tiff (TIFF)",
+  "silicon": "the-scratchpad.silicon.png (PNG)",
+  "seal_sha256": "e08663d8b85be8343c053a1cf5f57eb7106bd6a724935a01fcc0ec03c16d9a68",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
