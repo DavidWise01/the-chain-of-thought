@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 829
+slug  : the-chain-of-thought
+seal  : 1fae3fb043a1fb7aac8393fc9c2285b4608256959c567d81c2246f16198d92f3
+prev  : 68b00919ea555d290fe74e522bd62616da77fc198df65f45f00d41def19bd900
+link  : bdd14ef7cb65cf606a50556cc2853266295b0ec1c724d08259ae98395ff735e1
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
